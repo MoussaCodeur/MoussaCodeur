@@ -69,7 +69,7 @@ Passionné par les technologies et l'innovation, je me spécialise dans les rés
   <a href="mailto:omarmeiraneh123@.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/moussa_omar_meraneh2025">
+  <a href="https://www.linkedin.com/in/moussa-omar-meraneh2025">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/votre-profil">
