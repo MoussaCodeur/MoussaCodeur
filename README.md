@@ -1,65 +1,69 @@
 # 👋 Bonjour, je suis MOUSSA OMAR MERANEH
+### 📊 Data Analyst | Passionné par la donnée et l'aide à la décision
 
-### 🎓 Étudiant en Master ISI (Ingénierie des Systèmes d'Information)
-
-Passionné par les technologies et l'innovation, je me spécialise dans les réseaux, les systèmes et la cybersécurité. Mon objectif est de devenir expert dans ces domaines tout en explorant les possibilités offertes par l'intelligence artificielle.
+Je transforme des données brutes en insights exploitables. Curieux et rigoureux, je m'appuie sur les statistiques, le SQL, la visualisation de données et le Machine Learning pour raconter des histoires claires à partir des chiffres.
 
 ---
 
 ## 🚀 À propos de moi
 
-- 🌐 **Réseaux & Systèmes** : Configuration, administration et optimisation
-- 🔐 **Cybersécurité** : Bases solides et apprentissage continu
-- 🤖 **IA & Machine Learning** : Initiation au ML et Deep Learning
-- 💻 **Développement Web** : Création de solutions numériques innovantes
-- 🎯 **Motivation** : Curieux, orienté innovation et résolution de problèmes
+- 📈 **Analyse de données** : nettoyage, exploration (EDA), modélisation statistique
+- 🗃️ **SQL & Bases de données** : requêtes complexes, optimisation, modélisation relationnelle
+- 📊 **Visualisation** : dashboards interactifs avec Power BI, Tableau et Python
+- 🐍 **Python pour la Data** : Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- 🎯 **Objectif** : devenir Data Analyst confirmé et évoluer vers la Data Science
 
 ---
 
 ## 🛠️ Compétences Techniques
 
-### Réseaux & Systèmes
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-### Cybersécurité
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-### Développement
+### Langages & Analyse
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### IA & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+### Manipulation & Analyse de données
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Visualisation & BI
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ### Bases de données
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
---
+### Machine Learning & Statistiques
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Outils
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
 
 ## 🌱 Actuellement en apprentissage
 
-- 🔒 Approfondissement en cybersécurité (pentesting, analyse de vulnérabilités)
-- 🧠 Machine Learning et Deep Learning avancés
-- ☁️ Cloud Computing (AWS, Azure)
-- 🐳 DevOps et conteneurisation (Docker, Kubernetes)
+- 📊 Power BI avancé (DAX, Power Query, modélisation de données)
+- 🧠 Machine Learning appliqué à l'analyse prédictive
+- ☁️ Cloud pour la data (Azure Data Factory, AWS)
+- 🗂️ ETL et pipelines de données
 
 ---
 
 ## 🎯 Objectifs 2025
 
-- ✅ Obtenir des certifications en cybersécurité (CEH, CompTIA Security+)
-- ✅ Contribuer à des projets open source
-- ✅ Développer des projets personnels innovants
-- ✅ Renforcer mes compétences en architecture réseau
+- ✅ Obtenir une certification Data Analyst (Power BI / Google Data Analytics)
+- ✅ Construire un portfolio de projets d'analyse de données de bout en bout
+- ✅ Contribuer à des projets open source liés à la data
+- ✅ Renforcer mes compétences en storytelling avec la donnée
 
 ---
 
@@ -81,7 +85,7 @@ Passionné par les technologies et l'innovation, je me spécialise dans les rés
 
 ## 💡 Citation favorite
 
-> "La sécurité n'est pas un produit, mais un processus." - Bruce Schneier
+> "Sans données, vous n'êtes qu'une personne de plus avec une opinion." - W. Edwards Deming
 
 ---
 
