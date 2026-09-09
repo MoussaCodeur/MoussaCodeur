@@ -80,6 +80,6 @@
 
 <div align="center">
 
-📫 **Contactez-moi** : omarmeiraneh123@gmail.com | [LinkedIn](https://www.linkedin.com/in/moussa-omar-meraneh)
+📫 **Contactez-moi** : omarmeiraneh123@gmail.com | [LinkedIn](https://www.linkedin.com/in/moussa-omar-meraneh2025)
 
 </div>
