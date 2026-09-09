@@ -1,98 +1,85 @@
-# 👋 Bonjour, je suis MOUSSA OMAR MERANEH
-### 📊 Data Analyst | Passionné par la donnée et l'aide à la décision
+<div align="center">
 
-Je transforme des données brutes en insights exploitables. Curieux et rigoureux, je m'appuie sur les statistiques, le SQL, la visualisation de données et le Machine Learning pour raconter des histoires claires à partir des chiffres.
+# Salut, moi c'est Moussa 👋
 
----
+### Étudiant en Master 2 Ingénierie des Systèmes d'Information | Développeur Full-Stack | Passionné de Data
 
-## 🚀 À propos de moi
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moussa%20Omar%20Meraneh-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moussa-omar-meraneh)
+[![Email](https://img.shields.io/badge/Email-omarmeiraneh123%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:omarmeiraneh123@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Marrakech%2C%20Maroc-informational?style=flat&logo=googlemaps&logoColor=white)](#)
 
-- 📈 **Analyse de données** : nettoyage, exploration (EDA), modélisation statistique
-- 🗃️ **SQL & Bases de données** : requêtes complexes, optimisation, modélisation relationnelle
-- 📊 **Visualisation** : dashboards interactifs avec Power BI, Tableau et Python
-- 🐍 **Python pour la Data** : Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- 🎯 **Objectif** : devenir Data Analyst confirmé et évoluer vers la Data Science
+</div>
 
 ---
 
-## 🛠️ Compétences Techniques
+### 🚀 À propos
 
-### Langages & Analyse
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-### Manipulation & Analyse de données
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Visualisation & BI
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-### Bases de données
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Machine Learning & Statistiques
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### Outils
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- 🎓 En Master 2 ISI à l'**Université Cadi Ayyad**, Marrakech
+- 🔍 Actuellement à la recherche d'un **stage de fin d'études (PFE)**
+- 💻 Full-stack : **Python · PHP · Java/Spring Boot · SQL**
+- 📊 Intéressé par la **Data Analysis** et la modélisation de systèmes (Merise / UML)
+- 🌱 En veille constante sur les nouvelles technologies et l'IA
+- ⚡ Centres d'intérêt : sport, entrepreneuriat, veille technologique
 
 ---
 
-## 🌱 Actuellement en apprentissage
+### 🛠️ Stack technique
 
-- 📊 Power BI avancé (DAX, Power Query, modélisation de données)
-- 🧠 Machine Learning appliqué à l'analyse prédictive
-- ☁️ Cloud pour la data (Azure Data Factory, AWS)
-- 🗂️ ETL et pipelines de données
+**Langages & Développement**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
----
+**Bases de données**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
-## 🎯 Objectifs 2025
+**Infrastructure & Réseaux**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
 
-- ✅ Obtenir une certification Data Analyst (Power BI / Google Data Analytics)
-- ✅ Construire un portfolio de projets d'analyse de données de bout en bout
-- ✅ Contribuer à des projets open source liés à la data
-- ✅ Renforcer mes compétences en storytelling avec la donnée
-
----
-
-## 📫 Me contacter
-
-<p align="left">
-  <a href="mailto:omarmeiraneh123@.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/moussa-omar-meraneh2025">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/votre-profil">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
+**Outils & Méthodes**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile%2FScrum-000000?style=flat&logo=scrumalliance&logoColor=white)
 
 ---
 
-## 💡 Citation favorite
+### 📌 Projets phares
 
-> "Sans données, vous n'êtes qu'une personne de plus avec une opinion." - W. Edwards Deming
+| Projet | Description | Stack |
+|---|---|---|
+| 🎓 **Plateforme de Gestion Universitaire** | Application web complète de gestion universitaire | HTML, CSS, PHP |
+| 🤖 **Assistant Virtuel Nouveaux Bacheliers** | Assistant web pour l'orientation des bacheliers | MySQL, MCD/MLD |
+| 💾 **CloneZilla Backup** | Déploiement d'une solution de sauvegarde réseau | Administration Système |
+| 🧾 **ReceiptAI** | Tests manuels et automatisés d'une app mobile IA | PHPUnit 5 |
+| ☕ **API JEE Backend** | API REST avec gestion des données via JPA | Spring Boot, Spring Data JPA |
+| 🚢 **ML Titanic** | Modèle de prédiction de survie | Python, scikit-learn, pandas |
+
+> 📌 *Épingle les 4-6 repos correspondants sur ton profil pour qu'ils apparaissent ici automatiquement.*
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VOTRE_USERNAME&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</p>
+### 📊 Statistiques GitHub
 
-<p align="center">
-  ⭐️ N'hésitez pas à explorer mes repositories et à me contacter pour toute collaboration !
-</p>
+<div align="center">
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=MoussaCodeur&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoussaCodeur&layout=compact&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+📫 **Contactez-moi** : omarmeiraneh123@gmail.com | [LinkedIn](https://www.linkedin.com/in/moussa-omar-meraneh)
+
+</div>
