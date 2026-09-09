@@ -4,7 +4,7 @@
 
 ### Étudiant en Master 2 Ingénierie des Systèmes d'Information | Développeur Full-Stack | Passionné de Data
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moussa%20Omar%20Meraneh-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moussa-omar-meraneh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Moussa%20Omar%20Meraneh-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moussa-omar-meraneh2025)
 [![Email](https://img.shields.io/badge/Email-omarmeiraneh123%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:omarmeiraneh123@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Marrakech%2C%20Maroc-informational?style=flat&logo=googlemaps&logoColor=white)](#)
 
