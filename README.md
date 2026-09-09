@@ -62,9 +62,6 @@
 | 🧾 **ReceiptAI** | Tests manuels et automatisés d'une app mobile IA | PHPUnit 5 |
 | ☕ **API JEE Backend** | API REST avec gestion des données via JPA | Spring Boot, Spring Data JPA |
 | 🚢 **ML Titanic** | Modèle de prédiction de survie | Python, scikit-learn, pandas |
-
-> 📌 *Épingle les 4-6 repos correspondants sur ton profil pour qu'ils apparaissent ici automatiquement.*
-
 ---
 
 ### 📊 Statistiques GitHub
