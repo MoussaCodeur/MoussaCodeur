@@ -62,18 +62,6 @@
 | 🧾 **ReceiptAI** | Tests manuels et automatisés d'une app mobile IA | PHPUnit 5 |
 | ☕ **API JEE Backend** | API REST avec gestion des données via JPA | Spring Boot, Spring Data JPA |
 | 🚢 **ML Titanic** | Modèle de prédiction de survie | Python, scikit-learn, pandas |
----
-
-### 📊 Statistiques GitHub
-
-<div align="center">
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=MoussaCodeur&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoussaCodeur&layout=compact&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
 
